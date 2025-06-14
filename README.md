@@ -1,4 +1,5 @@
 # Patience_Sort_GUI_Application
+## Patience Sort GUI app written entirely in python.
 In this repo, you will find things:
 1. Python code
 2. Executeable (.exe) file
